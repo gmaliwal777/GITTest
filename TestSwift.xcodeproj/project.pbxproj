@@ -27,6 +27,7 @@
 		9ABDB3AC219306720009807B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9ABDB3AA219306720009807B /* LaunchScreen.storyboard */; };
 		B55065CB2608945E00FBF200 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55065CA2608945E00FBF200 /* SecondViewController.swift */; };
 		B55065CD260894C700FBF200 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55065CC260894C700FBF200 /* ThirdViewController.swift */; };
+		B55065CF26089B5000FBF200 /* FourthViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B55065CE26089B5000FBF200 /* FourthViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +49,7 @@
 		9ABDB3AD219306720009807B /* Development_Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Development_Info.plist; sourceTree = "<group>"; };
 		B55065CA2608945E00FBF200 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 		B55065CC260894C700FBF200 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		B55065CE26089B5000FBF200 /* FourthViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				9ABDB3A3219306720009807B /* ViewController.swift */,
 				B55065CA2608945E00FBF200 /* SecondViewController.swift */,
 				B55065CC260894C700FBF200 /* ThirdViewController.swift */,
+				B55065CE26089B5000FBF200 /* FourthViewController.swift */,
 				9ABDB3A5219306720009807B /* Main.storyboard */,
 				9ABDB3A8219306720009807B /* Assets.xcassets */,
 				9ABDB3AA219306720009807B /* LaunchScreen.storyboard */,
@@ -237,6 +240,7 @@
 				9AA0102A22BBEB740022C9B9 /* AppDelegate.swift in Sources */,
 				9ABDB3A4219306720009807B /* ViewController.swift in Sources */,
 				9AA0103022BBEB740022C9B9 /* ViewController.swift in Sources */,
+				B55065CF26089B5000FBF200 /* FourthViewController.swift in Sources */,
 				B55065CB2608945E00FBF200 /* SecondViewController.swift in Sources */,
 				B55065CD260894C700FBF200 /* ThirdViewController.swift in Sources */,
 				9ABDB3A2219306720009807B /* AppDelegate.swift in Sources */,
